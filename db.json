@@ -3,6 +3,7 @@
     {
       "name": "Polypodiophyta",
       "id": 0,
+      "url": "https://github.com/FacelessWanderer/flowers/blob/master/images/Polypodiophyta.jpg?raw=true",
       "count": 100,
       "isAvaliable": "True",
       "price": 989,
@@ -11,6 +12,7 @@
     {
       "name": "Abies alba Miller",
       "id": 1,
+      "url": "https://github.com/FacelessWanderer/flowers/blob/master/images/Abies%20alba%20Miller.jpg?raw=true",
       "count": 100,
       "isAvaliable": "True",
       "price": 989,
@@ -19,6 +21,7 @@
     {
       "name": "Garcinia Morella",
       "id": 2,
+      "url": "https://github.com/FacelessWanderer/flowers/blob/master/images/Garcinia%20Morella.jpg?raw=true",
       "count": 100,
       "isAvaliable": "True",
       "price": 989,
@@ -27,6 +30,7 @@
     {
       "name": "Picea excelsa Lk",
       "id": 3,
+      "url": "https://github.com/FacelessWanderer/flowers/blob/master/images/Picea%20excelsa%20Lk.jpg?raw=true",
       "count": 100,
       "isAvaliable": "True",
       "price": 989,
@@ -35,6 +39,7 @@
     {
       "name": "Quassia amara L",
       "id": 4,
+      "url": "https://github.com/FacelessWanderer/flowers/blob/master/images/Quassia%20amara%20L.jpg?raw=true",
       "count": 100,
       "isAvaliable": "True",
       "price": 989,
@@ -43,6 +48,7 @@
     {
       "name": "Sesamum",
       "id": 5,
+      "url": "https://github.com/FacelessWanderer/flowers/blob/master/images/Sesamum.jpg?raw=true",
       "count": 100,
       "isAvaliable": "True",
       "price": 989,
@@ -51,6 +57,7 @@
     {
       "name": "Viscum album L",
       "id": 6,
+      "url": "https://github.com/FacelessWanderer/flowers/blob/master/images/Viscum%20album%20L.jpg?raw=true",
       "count": 100,
       "isAvaliable": "True",
       "price": 989,
@@ -59,6 +66,7 @@
     {
       "name": "Santalum album L",
       "id": 7,
+      "url": "https://github.com/FacelessWanderer/flowers/blob/master/images/Santalum%20album%20L.jpg?raw=true",
       "count": 100,
       "isAvaliable": "True",
       "price": 989,
